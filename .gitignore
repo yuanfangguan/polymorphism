@@ -1,0 +1,20 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 大数据文件
+*.npy
+*.pkl
+*.h5
+*.vcf
+*.vcf.gz
+*.bed
+*.bgz
+*.csi
+*.fna
+*.gff
+*.tsv
+*.csv
+
+# 其他
+.DS_Store
